@@ -1,1 +1,1 @@
-# AStarPathFinder
+# A* Path Finder
